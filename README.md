@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rachithasmurthy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript and other stuffs related to full stack development
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 Rachithasmurthy/Rachithasmurthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
